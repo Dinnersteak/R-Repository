@@ -1,0 +1,1 @@
+To change is a daunting task, as the first step into the unknown is simply that, a single step. But sometimes that is all you need to begin a transformation. That is what I have embarked on today with this code, my first step toward changing the world piece by piece.
