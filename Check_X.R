@@ -1,15 +1,10 @@
-# Check_X.R
-
 check_x <- function(x) {
-    if (x > 47) {
-        print(":(")
-    } else if (x < 47) {
-        print(":(")
-    } else {
-        print(":)")
-    }
+  if (x > 47) {
+    cat(":(", "\n")
+  } else if (x < 47) {
+    cat(":(", "\n")
+  } else {
+    cat(":)", "\n")
+  }
 }
 
-# Example usage
-check_x(47)
-check_x(67)
